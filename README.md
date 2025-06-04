@@ -1,16 +1,20 @@
-# SkillCraft - Responsive Landing Page
+SkillCraft - Responsive Landing Page
+
+
+live site link:-http://127.0.0.1:5500/task1.html
+
 
 SkillCraft is a modern, responsive, and interactive landing page built using HTML, Tailwind CSS, and JavaScript. It is designed to showcase frontend development skills with a focus on clean design, responsive layout, and user-friendly navigation.
 
----
 
-## 1. Project Overview
+
+1. Project Overview
 
 This project is a single-page responsive landing page intended for portfolio, personal branding, or internship demonstration. It features smooth scrolling, scroll-based active navigation, and a mobile-friendly interface.
 
----
 
-## 2. Features
+
+2. Features
 
 1. Fixed navigation bar visible on all pages
 2. Hover animations with underline effect
@@ -21,21 +25,12 @@ This project is a single-page responsive landing page intended for portfolio, pe
 7. Clean UI using Tailwind CSS
 8. Contact section with direct email link
 
----
 
-## 3. Technologies Used
+3. Technologies Used
 
 - HTML5
 - Tailwind CSS (via CDN)
 - JavaScript (vanilla)
 
----
 
-## 4. Getting Started
 
-To run the project locally on your system:
-
-### Step 1: Clone the repository
-```bash
-git clone https://github.com/yourusername/skillcraft.git
-cd skillcraft
