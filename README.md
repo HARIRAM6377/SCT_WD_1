@@ -1,7 +1,7 @@
 SkillCraft - Responsive Landing Page
 
 
-live site link:-http://127.0.0.1:5500/task1.html
+
 
 
 SkillCraft is a modern, responsive, and interactive landing page built using HTML, Tailwind CSS, and JavaScript. It is designed to showcase frontend development skills with a focus on clean design, responsive layout, and user-friendly navigation.
