@@ -1,6 +1,6 @@
 SkillCraft - Responsive Landing Page
 
-
+live server url:https://hariram6377.github.io/SCT_WD_1/task1.html
 
 
 
